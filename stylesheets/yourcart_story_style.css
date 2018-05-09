@@ -1,0 +1,443 @@
+body
+{
+    margin:0;
+    padding:0;
+}
+
+.container
+{
+    width:100%;
+    min-width:1348px;
+}
+
+.fr
+{
+    float:right;
+    width:60%;
+    text-align:right;
+    margin-right:15%;
+}
+
+.fr>a
+{
+    text-decoration:none;
+    color:white;
+}
+
+.sc
+{
+    float:left;
+    margin-left:10%;
+    width:80%;
+    height:8%;
+}
+
+
+.sc>a
+{
+    text-decoration:none;
+    color:white;
+    font-size:46;
+    font-family:"poor richard";
+}
+.sc_input
+{
+    width:50%;
+    height:50%;
+}
+
+.sc_form
+{
+    display:inline;
+    margin-left:1%;
+}
+
+.sc_input1
+{
+    margin-left:-1%;
+    height:55%;
+    padding:0;
+    width:10%;
+    cursor: pointer;
+    color:white;
+    background:#f15e22;
+    border:0;
+    font-size:20;
+}
+
+.sc>a>img
+{
+    height:80%;
+    width:5%;
+}
+
+.sc_form1
+{
+    display:inline;
+}
+
+.sc_input2
+{
+    margin-left:3%;
+    height:55%;
+    padding:0;
+    cursor: pointer;
+    width:10%;
+    color:white;
+    background:#f15e22;
+    border:0;
+    font-size:20;
+}
+
+.thr
+{
+    margin-left:19%;
+    display: inline-block;
+    width:66%;
+    background-color:#75CA78;
+}
+
+
+.dropbtn
+{
+    background-color: #75CA78;
+    color: white;
+    padding: 10px;
+    font-size: 16px;
+    border: none;
+    cursor: pointer;
+    width:100%;
+}
+
+
+.dropdown
+{
+    position: relative;
+    display: inline-block;
+}
+
+
+.dropdown-content
+{
+    display: none;
+    position: absolute;
+    background-color: #f9f9f9;
+    width:700px;
+    box-shadow: 0px 8px 16px 0px rgba(0,0,0,0.2);
+}
+
+.dropdown-content1
+{
+    display: none;
+    position: absolute;
+    background-color: #f9f9f9;
+    width:470px;
+    box-shadow: 0px 8px 16px 0px rgba(0,0,0,0.2);
+}
+
+
+.dropdown-content2
+{
+    display: none;
+    position: absolute;
+    background-color: #f9f9f9;
+    width:340px;
+    box-shadow: 0px 8px 16px 0px rgba(0,0,0,0.2);
+}
+
+
+.dropdown:hover .dropdown-content
+{
+    display: block;
+}
+
+.dropdown:hover .dropdown-content1
+{
+    display: block;
+}
+
+.dropdown:hover .dropdown-content2
+{
+    display: block;
+}
+
+
+.dropdown:hover .dropbtn
+{
+    background-color: #3e8e41;
+}
+
+.divs
+{
+    margin-left:1%;
+    float:left;
+}
+
+.header
+{
+    font-size: 20;
+    color: black;
+    padding: 10px 16px;
+    background:#f9f9f9;
+    border:0;
+    font-family:"poor richard";
+    display:inline-block;
+    text-decoration:underline;
+}
+
+.header:hover
+{
+    background-color: #f1f1f1;
+    cursor:pointer;
+    color:grey;
+}
+
+
+.data
+{
+    font-size: 17;
+    color: black;
+    padding: 5px 16px;
+    background:#f9f9f9;
+    border:0;
+    font-family:"poor richard";
+    display:inline-block;
+}
+
+.data:hover
+{
+    background-color: #f1f1f1;
+    text-decoration:underline;
+    cursor:pointer;
+    color:grey;
+}
+
+.head
+{
+    background:#75CA78;
+}
+
+.image_gift
+{
+    height:2%;
+    width:1.5%;
+}
+
+.image_pin
+{
+    height:2%;
+    width:1%;
+}
+
+
+.body1
+{
+    
+    display:inline-block;
+    width:100%;
+    height: 50%;
+    color: white;
+    background: url(../images_site/WDF_1736876.jpg);
+    background-attachment: fixed;
+}
+
+.footer
+{
+    width:100%;
+}
+
+.footer1
+{
+    margin-left:10%;
+    text-align:center;
+    float:left;
+    width: 30%;
+    margin-top:1%;
+    font-size:20;
+}
+
+.footer1>a
+{
+    text-decoration:none;
+    color:black;
+    font-size:16;
+}
+
+.footer1>a:hover
+{
+    text-decoration:underline;
+}
+
+.footer2
+{
+    margin-right:10%;
+    text-align:center;
+    float:right;
+    width: 30%;
+    margin-top:1%;
+    font-size:20;
+}
+
+.footer2>a
+{
+    text-decoration:none;
+    color:black;
+    font-size:16;
+}
+
+.footer2>a:hover
+{
+    text-decoration:underline;
+}
+
+.rights
+{
+    background:black;
+    color: white;
+    text-align:center;
+    width:100%;
+    display:inline-block;
+}
+
+.b1
+{
+    margin:0 auto;
+    margin-top:6%;
+    width: 90%;
+    text-align:center;
+    font-size:100;
+    font-family: "Poor Richard";
+}
+
+.form10
+{
+    display:inline;
+}
+
+.logout1
+{
+    margin-left:1%;
+    border:0;
+    background:#75CA78;
+    cursor:pointer;
+}
+
+.logout1:hover
+{
+    text-decoration:underline;
+    color: grey;
+}
+
+.body2
+{
+    background: url(../images_site/a1.png);
+    height: 750px;
+    width:100%;
+    background-attachment: fixed;
+}
+
+.body3
+{
+    background: url(../images_site/a2.png) no-repeat;
+    height:800px;
+    width:100%;
+    background-attachment: fixed;
+}
+
+.b2
+{
+    font-family: "Poor Richard";
+    font-size: 60;
+    text-align: right;
+    margin-right: 5%;
+}
+
+.b3
+{
+    color: white;
+    font-family: "Poor Richard";
+    font-size: 60;
+    /*text-align: right;*/
+    margin-left: 5%;
+}
+
+.body4
+{
+    background: url(../images_site/a3.png) no-repeat;
+    height:800px;
+    width:100%;
+    background-attachment: fixed;
+}
+
+.b4
+{
+    font-family: "Poor Richard";
+    font-size: 60;
+    text-align: right;
+    margin-right: 5%;
+    color: white;
+}
+
+.body5
+{
+    background: url(../images_site/a4.png) no-repeat;
+    height:800px;
+    width:100%;
+    background-attachment: fixed;
+}
+
+.b5
+{
+    font-family: "Poor Richard";
+    font-size: 48;
+    text-align: right;
+    margin-right: 5%;
+}
+
+.body6
+{
+    background: url(../images_site/a6.png) no-repeat;
+    height:800px;
+    width:100%;
+    background-attachment: fixed;
+}
+
+.b6
+{
+    font-family: "Poor Richard";
+    font-size: 60;
+    text-align: right;
+    margin-right: 5%;
+    color: white;
+}
+
+.body7
+{
+    background: url(../images_site/a7.jpg) no-repeat;
+    height:600px;
+    width:100%;
+    background-attachment: fixed;
+}
+
+.b7
+{
+    font-family: "Poor Richard";
+    font-size: 100;
+    text-align: center;
+}
+
+.body8
+{
+    background: url(../images_site/WDF_1736876.jpg) no-repeat;
+    height:650px;
+    width:100%;
+    background-attachment: fixed;
+}
+
+.b8
+{
+    font-family: "Poor Richard";
+    font-size: 100;
+    text-align: center;
+    color: white;
+}

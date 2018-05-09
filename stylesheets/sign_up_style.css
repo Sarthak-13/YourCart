@@ -1,0 +1,183 @@
+body
+{
+    border:0;
+    padding:0;
+    margin:0;
+}
+
+.container
+{
+    width:100%;
+    min-width:1366px;
+    height:100%;
+}
+
+.fr
+{
+    height:15%;
+    width:100%;
+    background:#75CA78;
+}
+
+.fr1
+{
+    margin-left:10%;
+    width:30%;
+    float:left;
+}
+
+.logo
+{
+    height:80%;
+    widthL:100%;
+}
+
+.fr2
+{
+    float:right;
+    margin-right:5%;
+    width:35%;
+    font-size:20;
+}
+
+.fr_pass
+{
+    float:right;
+}
+
+.fr_pass>a
+{
+    text-decoration:none;
+    color:black;
+}
+
+.fr_pass>a:hover
+{
+    text-decoration:underline;
+}
+
+.fr2>form
+{
+    margin-top:2%;
+}
+
+.fr2>form>input
+{
+    margin-left:1%;
+    height:25%;
+}
+
+.submit_1
+{
+    float:right;
+    width:15%;
+    margin-right:5%;
+}
+
+.sc
+{
+    height:85%;
+    width:50%;
+    float:left;
+}
+
+.thr
+{
+    height:85%;
+    width:50%;
+    float:right;
+    background:#D6CDCD;
+}
+
+.head
+{
+    height:10%;
+    width:50%;
+    margin:0 auto;
+    font-size:50;
+    text-align:center;
+    margin-top:2%;
+}
+
+.data
+{
+    height:80%;
+    width:70%;
+    margin:0 auto;
+    margin-top:2%;
+    
+}
+
+.tab1
+{
+    font-size:20;
+}
+
+.btn_sign_up
+{
+    font-size:20;
+}
+
+.tab1>tr>td>input
+{
+    width:100%;
+}
+
+.sc1
+{
+   height:80%;
+   width:80%;
+   margin:0 auto;
+   margin-top:10%;
+}
+
+.img_sc1
+{
+    margin-left:30%;
+}
+
+.sc1-1
+{
+    margin-top:2%;
+    font-size:54;
+    font-family:"Poor Richard";
+    text-align:center;
+}
+
+.sc1-2
+{
+    font-size:22;
+    margin:0 auto;
+    width:80%;
+}
+
+.para
+{
+    text-align:right;
+}
+
+.a_site
+{
+    text-decoration:none;
+    color:black;
+}
+
+.a_site:hover
+{
+    text-decoration:underline;
+}
+
+.logo:hover
+{
+    height:83%;
+    widthL:103%;
+}
+
+.four
+{
+    margin-top: 4%;
+    width:100%;
+    display: inline-block;
+    background: black;
+    color: white;
+}

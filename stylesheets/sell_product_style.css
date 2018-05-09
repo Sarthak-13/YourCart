@@ -1,0 +1,180 @@
+body
+{
+    margin:0;
+    border:0;
+    padding:0;
+}
+
+.container
+{
+    width:100%;
+    min-width:1348px;
+}
+
+.fr
+{
+    width:100%;
+    height:24%;
+    background:#75CA78;
+}
+
+.logo:hover
+{
+    height:83%;
+    widthL:103%;
+}
+
+.logo
+{
+    height:80%;
+    widthL:100%;
+}
+
+.fr1
+{
+    margin-left:10%;
+    width:30%;
+    float:left;
+}
+
+.fr2
+{
+    font-family:"Poor Richard";
+    margin-top:-0.5%;
+    margin-right:5%;
+    width:30%;
+    float:right;
+    font-size:22;
+}
+
+.fr3
+{
+    width:100%;
+    margin-top:3%;
+    display:inline-block;
+}
+
+.fr3>form>input
+{
+    margin-left:1%;
+    border:0;
+    width:40%;
+    font-size:18;
+    background: #f15e22;
+    color: white;
+    cursor: pointer;
+}
+
+.fr3>form>input:hover
+{
+    text-decoration: underline;
+}
+
+
+.sc
+{
+    width:80%;
+    margin:0 auto;
+    font-size:19;
+    text-align: center;
+}
+
+.sc1
+{ 
+    width:44%;
+    float:left;
+    background:#D6CDCD;
+}
+
+.tab2
+{
+    font-size:19;
+}
+
+.txt_area
+{
+    width:120%;
+    height:150%;
+}
+
+.btn_submit
+{
+    border:0;
+    height:5%;
+    width: 50%;
+    font-size:20;
+    background: #f15e22;
+    color: white;
+    cursor: pointer;
+}
+
+.btn_submit:hover
+{
+    text-decoration: underline;
+}
+
+.thr
+{
+    float:right;
+    width:56%;
+}
+
+.thr1
+{
+    width:95%;
+    margin:0 auto;
+    font-size:24;
+}
+
+.thr2
+{
+    width:95%;
+    margin:0 auto;
+    font-size:20;
+}
+
+.tab3
+{
+    font-size:18;
+    text-align: center;
+}
+
+
+.four
+{
+    background:black;
+    color:white;
+    display:inline-block;
+    width:100%;
+}
+
+.five
+{
+    width: 100%;
+    float: right;
+}
+
+.invoice_bt
+{
+    border:0;
+    height:7%;
+    width: 20%;
+    font-size:20;
+    background: #f15e22;
+    color: white;
+    cursor: pointer;
+}
+
+
+.all
+{
+    color: white;
+    border: 0;
+    background: #f15e22;
+    cursor: pointer;
+}
+
+.all:hover
+{
+    text-decoration: underline;
+}
