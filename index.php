@@ -1,0 +1,25 @@
+<?php
+    session_start();
+    $_SESSION['consumer_email']=null;
+    $_SESSION['log1']=null;
+    $_SESSION['con_fr_nme']=null;
+    $_SESSION['con_phone']=null;
+    $_SESSION['i']=null;
+    $_SESSION['j']=null;
+    $_SESSION['already_exist']=0;
+    $_SESSION['invalid']=0;
+    $_SESSION['del']=0;
+    $_SESSION['ord']=0;
+    $_SESSION['con_pass_change']=0;
+    $_SESSION['r21']=null;
+    $_SESSION['edit_prod_id']=null;
+    $_SESSION['seller_email']=null;
+    $_SESSION['edit_prod_noti']=0;
+    $_SESSION['con_lst_nme']=null;
+    $_SESSION['str_name']=null;
+	$_SESSION['str_addr']=null;
+	$_SESSION['display']=null;
+	$_SESSION['display1']=null;
+	$_SESSION['con_pin_code']=0;
+    header("location:index1.php");
+?>
